@@ -3,7 +3,7 @@ shared_script "@vrp/lib/lib.lua" --Para remover esta pendencia de todos scripts,
 fx_version 'bodacious'
 game 'gta5'
 
-author 'BORGES#0001 - Quebrada'
+author 'BORGES#0001
 version '1.0.0'
 
 client_script {
